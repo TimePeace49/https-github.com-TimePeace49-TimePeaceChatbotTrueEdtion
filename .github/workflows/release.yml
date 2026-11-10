@@ -24,4 +24,4 @@ jobs:
     with:
       version: ${{ inputs.version }}
       latest: ${{ inputs.latest }}
-      edition: true
+      edition: "true"
